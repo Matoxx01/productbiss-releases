@@ -6,7 +6,7 @@ El código fuente de la aplicación principal y de la página web se mantiene de
 
 ## 📥 Descargas Oficiales
 Si eres usuario y estás buscando descargar el programa, por favor dirígete a nuestra página oficial:
-👉 [Web de ProductBiss] (Reemplaza por tu dominio)
+👉 [Web de ProductBiss] (https://productbiss.barrioslira.com/)
 
 ## 📦 Acerca de los Archivos
 Todos los ejecutables adjuntos en los Releases de este repositorio (`.exe`) son generados directamente por el equipo de desarrollo y han pasado las revisiones de seguridad estándar.
