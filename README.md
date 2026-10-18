@@ -53,9 +53,4 @@ Reglas que el sitio aplica:
 - Los cambios pueden tardar hasta unos 15 minutos en verse, por la memoria cache del servidor.
 
 ---
-<<<<<<< HEAD
-
-(c) ProductBiss. Todos los derechos reservados.
-=======
 © ProductBiss - Todos los derechos reservados.
->>>>>>> 27043df6e9515b80d8e838e90d072d61b5194829
