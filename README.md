@@ -6,13 +6,7 @@ aplicacion y del sitio web se mantiene en repositorios privados.
 
 ## Descargar
 
-<<<<<<< HEAD
 La forma recomendada de descargar es desde el sitio oficial, que siempre ofrece la ultima version:
-=======
-## 📥 Descargas Oficiales
-Si eres usuario y estás buscando descargar el programa, por favor dirígete a nuestra página oficial:
-👉 [Web de ProductBiss] (https://productbiss.barrioslira.com/)
->>>>>>> 27043df6e9515b80d8e838e90d072d61b5194829
 
 **https://productbiss.cl/descargar/**
 
